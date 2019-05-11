@@ -1,0 +1,9 @@
+babelfish
+gevent
+guessit==1.0.3
+qtfaststart
+requests-cache
+requests[security]
+stevedore==1.19.1
+subliminal<2
+tmdbsimple
